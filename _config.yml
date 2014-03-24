@@ -3,10 +3,10 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
+title: Roteiro
 subtitle:
 description:
-author: John Doe
+author: David
 email:
 language:
 
@@ -101,4 +101,6 @@ stylus:
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repository: git@github.com:deggs7/deggs7.github.io.git
+  branch: master
