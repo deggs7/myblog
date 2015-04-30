@@ -1,7 +1,7 @@
 title: "Javascript闭包"
 id: 27
 date: 2011-11-29 03:43:56
-tags: 
+tags: javascript
 categories: 
 - Uncategorized
 ---
